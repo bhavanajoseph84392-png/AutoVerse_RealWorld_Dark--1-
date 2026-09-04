@@ -1,1 +1,3 @@
 AutoVerse/node_modules/
+AutoVerse/dist/
+.env
